@@ -24,6 +24,10 @@ Through **serial console recovery** and a **custom silent fan modification**, I 
 
 ---
 
+![Zyxel GS2210-24HP Hardware](20250705_153226.jpg)
+
+---
+
 ## 🌬️ Hardware Mod: The "Noctua Upgrade"
 The factory fans were rated at ~35 dBA, making the switch too loud for an office environment. I replaced them with Noctua fans, reducing the noise floor to **17.9 dBA**.
 
@@ -37,8 +41,8 @@ The Noctua fans required a custom pinout modification to match the Zyxel proprie
 > By re-ordering the pins manually, I avoided cutting or soldering, maintaining a clean, professional internal build.
 
 <p align="center">
-  <img src="A20250711_161936.jpg" width="48%" alt="Internal Fan Wiring" />
-  <img src="b20250711_142047.jpg" width="48%" alt="Finished Hardware Assembly" />
+  <img src="20250705_154652.jpg" width="48%" alt="Internal Fan Wiring" />
+  <img src="20250705_154847 (1).jpg" width="48%" alt="Finished Hardware Assembly" />
 </p>
 
 ---
