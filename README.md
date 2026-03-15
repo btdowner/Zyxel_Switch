@@ -74,3 +74,24 @@ This switch now serves as my **PoE+ Power House**, supporting:
 * **Infrastructure Budgeting:** Cost-benefit analysis and enterprise hardware refurbishment.
 
 ---
+
+## 🔗 LinkedIn
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
+
+@import "{{ site.theme }}";
+
+/* Target the specific Midnight layout tags */
+.wrapper, section, header {
+  max-width: 95% !important;
+  width: 95% !important;
+  margin: 0 auto !important;
+}
+
+section {
+  padding: 20px 0 !important;
+}
+
+pre, .highlight {
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
