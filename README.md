@@ -2,11 +2,8 @@
 
 ---
 
-# 🛠️ Zyxel GS2210-24HP Switch Restoration Project
-
----
-
 ## 📘 Project Overview
+
 This project involved the successful restoration and hardware modification of a **Zyxel GS2210-24HP** enterprise managed PoE+ switch. Originally retailing for ~$570, I acquired this unit in a non-factory state for under $40. 
 
 Through **serial console recovery** and a **custom silent fan modification**, I transformed a loud, decommissioned unit into a high-performance, whisper-quiet core switch for my CCNA home lab.
