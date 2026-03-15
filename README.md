@@ -1,4 +1,10 @@
+[← Back to Home](https://github.com/btdowner)
+
+---
+
 # 🛠️ Zyxel GS2210-24HP Switch Restoration Project
+
+---
 
 ## 📘 Project Overview
 This project involved the successful restoration and hardware modification of a **Zyxel GS2210-24HP** enterprise managed PoE+ switch. Originally retailing for ~$570, I acquired this unit in a non-factory state for under $40. 
